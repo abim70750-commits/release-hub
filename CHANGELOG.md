@@ -2,6 +2,9 @@
 
 **Author:** Abi Manyu (BlueBarry)
 
+## 1.0.1
+- 2026-10-08 · fix admin sync crash
+
 ## v1.0.0
 - Public release catalog.
 - Release detail page with ABI + changelog + download CTA.
