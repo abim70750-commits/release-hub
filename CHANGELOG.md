@@ -2,6 +2,9 @@
 
 **Author:** Abi Manyu (BlueBarry)
 
+## 1.0.2
+- 2026-10-09 · add android APK build
+
 ## 1.0.1
 - 2026-10-08 · fix admin sync crash
 
