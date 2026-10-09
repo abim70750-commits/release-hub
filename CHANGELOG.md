@@ -2,6 +2,9 @@
 
 **Author:** Abi Manyu (BlueBarry)
 
+## 1.0.3
+- 2026-10-09 · fix android workflow
+
 ## 1.0.2
 - 2026-10-09 · add android APK build
 
